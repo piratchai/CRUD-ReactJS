@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "fir-course-4608c"
+  },
+  "targets": {
+    "fir-course-4608c": {
+      "hosting": {
+        "crud": [
+          "crud-c0054"
+        ]
+      }
+    }
+  }
+}
